@@ -35,40 +35,6 @@ cmake -G "Visual Studio 15 2017 Win64" ..
 
 ## How To Use
 
-
-
-## Features
-
-- Camera
-	- Movements(移动)
-	- Zoom in/out(放大/缩小)
-	- Exposure(曝光) :
-		- Aperture(光圈)
-		- Shutter speed(快门速度)
-		- ISO(感光度)
-- Texture
-	- Init/loading/binding by stb library
-	- Anisotropic Filtering(各项异性扩散滤波)
-	- HDR
-	- Cubemap
-- Material
-	- PBR material pipeline
-		- Albedo(反射率)
-		- Normal(法线)
-		- Roughness(粗糙度)
-		- Matelness(金属度)
-		- AO(环境光遮蔽)
-- Model
-	- Load model by Assimp
-- PBR Pipline
-	- BRDF
-		- Cook-Torrance model
-		- Diffuse : Lambertian/Disney
-- Utility
-	- GUI using ImGui
-	- GPU profiling
-	- G-Buffer visualization for debugging purpose
-
 ## Dependencies
 
 in 3rdpart file:
