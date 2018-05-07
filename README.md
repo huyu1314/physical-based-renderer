@@ -79,3 +79,9 @@ in 3rdpart file:
 - Image Loading : stb
 - Mesh Loading : Assimp
 
+
+## Credits 
+
+- PBRT
+- Joshua Senouf
+- Cao Jiayin
